@@ -2,11 +2,11 @@
 My DISMATH 0.0 Project by Joshua Ingeniero
 
 # Screenshots of Screens in Designer
-![ScreenShot](Screen1.jpg)
-![ScreenShot](Screen2.jpg)
-![ScreenShot](Screen3.jpg)
+![ScreenShot](Screen1.png)
+![ScreenShot](Screen2.png)
+![ScreenShot](Screen3.png)
 
 # Screenshots of Screens in Blocks
-![ScreenShot](Screen1B.jpg)
-![ScreenShot](Screen2B.jpg)
-![ScreenShot](Screen3B.jpg)
+![ScreenShot](Screen1B.png)
+![ScreenShot](Screen2B.png)
+![ScreenShot](Screen3B.png)
