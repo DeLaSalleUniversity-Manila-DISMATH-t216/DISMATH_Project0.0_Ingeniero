@@ -2,6 +2,11 @@
 
 My DISMATH 0.0 Project by Joshua Ingeniero
 
+# Screenshots of Screens in Android
+![ScreenShot](Screen1S.png)
+![ScreenShot](Screen2S.png)
+![ScreenShot](Screen3S.png)
+
 # Screenshots of Screens in Designer
 ![ScreenShot](Screen1.png)
 ![ScreenShot](Screen2.png)
@@ -11,3 +16,4 @@ My DISMATH 0.0 Project by Joshua Ingeniero
 ![ScreenShot](Screen1B.png)
 ![ScreenShot](Screen2B.png)
 ![ScreenShot](Screen3B.png)
+
